@@ -1,0 +1,15 @@
+/Users/yuanbodeng/Desktop/C#/TicTacToe/bin/Debug/net6.0/TicTacToe
+/Users/yuanbodeng/Desktop/C#/TicTacToe/bin/Debug/net6.0/TicTacToe.deps.json
+/Users/yuanbodeng/Desktop/C#/TicTacToe/bin/Debug/net6.0/TicTacToe.runtimeconfig.json
+/Users/yuanbodeng/Desktop/C#/TicTacToe/bin/Debug/net6.0/TicTacToe.dll
+/Users/yuanbodeng/Desktop/C#/TicTacToe/bin/Debug/net6.0/TicTacToe.pdb
+/Users/yuanbodeng/Desktop/C#/TicTacToe/obj/Debug/net6.0/TicTacToe.csproj.AssemblyReference.cache
+/Users/yuanbodeng/Desktop/C#/TicTacToe/obj/Debug/net6.0/TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yuanbodeng/Desktop/C#/TicTacToe/obj/Debug/net6.0/TicTacToe.AssemblyInfoInputs.cache
+/Users/yuanbodeng/Desktop/C#/TicTacToe/obj/Debug/net6.0/TicTacToe.AssemblyInfo.cs
+/Users/yuanbodeng/Desktop/C#/TicTacToe/obj/Debug/net6.0/TicTacToe.csproj.CoreCompileInputs.cache
+/Users/yuanbodeng/Desktop/C#/TicTacToe/obj/Debug/net6.0/TicTacToe.dll
+/Users/yuanbodeng/Desktop/C#/TicTacToe/obj/Debug/net6.0/refint/TicTacToe.dll
+/Users/yuanbodeng/Desktop/C#/TicTacToe/obj/Debug/net6.0/TicTacToe.pdb
+/Users/yuanbodeng/Desktop/C#/TicTacToe/obj/Debug/net6.0/TicTacToe.genruntimeconfig.cache
+/Users/yuanbodeng/Desktop/C#/TicTacToe/obj/Debug/net6.0/ref/TicTacToe.dll
