@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "lbSPM5+N6KZglbZl6V+B3/XFFU9cSbGFFBfK9xbyDg0vkyHS89ebzka2x9DcEUAa8+6ITqPjx9tWbo7f2Sk3hw==",
+  "dgSpecHash": "kt5eh3vvGD0kn9Q1tRPGBUURcU24JiJGr3Al63vFyrfhuErxJFD2pFY+SO1QzAmdy9VZTyBcRCnDrOJmG+VGwA==",
   "success": true,
   "projectFilePath": "/Users/yuanbodeng/Desktop/C#/TicTacToe/TicTacToe.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/yuanbodeng/.nuget/packages/microsoft.netcore.app.runtime.osx-x64/6.0.10/microsoft.netcore.app.runtime.osx-x64.6.0.10.nupkg.sha512",
+    "/Users/yuanbodeng/.nuget/packages/microsoft.aspnetcore.app.runtime.osx-x64/6.0.10/microsoft.aspnetcore.app.runtime.osx-x64.6.0.10.nupkg.sha512"
+  ],
   "logs": []
 }

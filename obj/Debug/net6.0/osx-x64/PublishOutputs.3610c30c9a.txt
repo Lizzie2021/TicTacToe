@@ -1,0 +1,2 @@
+/Users/yuanbodeng/Desktop/C#/TicTacToe/bin/Debug/net6.0/osx-x64/publish/TicTacToe.pdb
+/Users/yuanbodeng/Desktop/C#/TicTacToe/bin/Debug/net6.0/osx-x64/publish/TicTacToe
